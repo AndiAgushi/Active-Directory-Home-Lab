@@ -30,6 +30,3 @@ Built a fully functional Active Directory lab using VirtualBox to simulate a rea
 - Domain user and OU management
 - Network configuration
 - Domain join process
-
-## Screenshots
-
